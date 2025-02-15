@@ -11,8 +11,8 @@ This is a simple Android app built using Jetpack Compose for managing a shopping
 
 ## Screenshots
 
-<img src="https://github.com/user-attachments/assets/9930225c-b9e6-45bf-880a-09eb7d1a78ea
-" width="500" />
+![Adsız tasarım](https://github.com/user-attachments/assets/738a2525-ba83-4cd7-aa3d-700c6b7ef22e)
+
 
 ## Tech Stack
 
