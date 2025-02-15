@@ -10,6 +10,7 @@ This is a simple Android app built using Jetpack Compose for managing a shopping
 - User-friendly interface with Material Design components
 
 ## Screenshots
+Here is a preview of the app:
 
 ![Adsız tasarım](https://github.com/user-attachments/assets/738a2525-ba83-4cd7-aa3d-700c6b7ef22e)
 
